@@ -1,4 +1,4 @@
-//<!doctype html>
+<!doctype html>
 <html lang="en-US">
   <head>
     <meta charset="utf-8" />
@@ -20,5 +20,5 @@
       width="300"
       height="300"         
       alt="Smile" />
-//  </body>
-//</html>
+  </body>
+</html>
